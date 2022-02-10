@@ -14,4 +14,4 @@ Some extra tidbits:
 - 😄 Pronouns: he/him/his
 - 📱 A bit of a gadget addict
 - 🤘 headbanger (maybe you noted something familiar in the blog title 🙂)
-- ⚡ I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003375) in the development technologies category
+- ⚡ I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003375) in the developer technologies category
