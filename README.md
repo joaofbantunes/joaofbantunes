@@ -1,8 +1,18 @@
 ### Hey folks! 👋
 
-My name is João Antunes (often nicknamed Johnny or John). I work as a software engineer, mostly with .NET technologies, but I like to play around with other tech as well. My main interests are software architecture, design and development, with more focus on the backend but with a view of the whole stack.
+My name is João Antunes and I'm a tech professional who's always trying to push things forward. Interested in everything related to the software development process, including the development itself, solutions architecture, as well as other activities, like promoting technical discussions, knowledge sharing and helping colleagues level up.
 
-I’m also a supporter of remote work, as I believe our industry is in a privileged position to provide the best work-life balance, skipping unneeded commutes and relocations.
+I've worked across different projects and industries, developing (micro)services, web applications, IPTV applications and a bunch of other stuff. When developing, I've mainly focused on backend systems but always trying to keep an eye on what's going on in the frontend.
+
+In terms of tech stack, my main focus has been .NET and C#, but I've worked with other technologies and enjoy trying and learning new things as much as possible. Awarded as Microsoft MVP, in the developer technologies category.
+
+I spend a good amount of time trying to keep up and learn new things, not only to improve on subjects relevant to my day-to-day job, but also exploring subjects that aren’t (at least yet) part of it, so I improve my knowledge breadth, and have a bigger picture view when it’s relevant.
+
+I have a blog and a YouTube channel where I talk about all the subjects around software development (you can find links below). I also do some presentations on meetups, conferences and related events.
+
+I have a blog and a YouTube channel where I talk about all things software development (you can find links somewhere in the profile). I also do occasional presentations at meetups, conferences and related events.
+
+Big remote work supporter, as I believe the tech industry is in a privileged position to provide the best work-life balance, skipping unneeded commutes and relocations, while also being an example to the other industries.
 
 Some extra tidbits:
 
