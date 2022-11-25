@@ -10,8 +10,6 @@ I spend a good amount of time trying to keep up and learn new things, not only t
 
 I have a blog and a YouTube channel where I talk about all the subjects around software development (you can find links below). I also do some presentations on meetups, conferences and related events.
 
-I have a blog and a YouTube channel where I talk about all things software development (you can find links somewhere in the profile). I also do occasional presentations at meetups, conferences and related events.
-
 Big remote work supporter, as I believe the tech industry is in a privileged position to provide the best work-life balance, skipping unneeded commutes and relocations, while also being an example to the other industries.
 
 Some extra tidbits:
