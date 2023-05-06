@@ -18,7 +18,6 @@ Some extra tidbits:
 - 📼 And also record videos about code at [https://youtube.com/codingmilitia](https://youtube.com/codingmilitia)
 - 💬 Feel free to reach out about the things I blog/record, or just coding stuff in general, happy to help if I can
 - 📫 Happy to connect on [Mastodon](https://mastodon.social/@joaofbantunes), [Twitter](https://twitter.com/joaofbantunes) and/or [LinkedIn](https://www.linkedin.com/in/joaofbantunes/)
-- 📧 An alternative to the above socials are the contact forms on my [blog](https://blog.codingmilitia.com/contact/) and [website](https://antunes.dev/)
 - 😄 Pronouns: he/him/his
 - 📱 A bit of a gadget addict
 - 🤘 headbanger (maybe you noted something familiar in the blog title 🙂)
