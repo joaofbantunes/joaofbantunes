@@ -17,7 +17,7 @@ Some extra tidbits:
 - ✍ I blog about code at [https://blog.codingmilitia.com](https://blog.codingmilitia.com)
 - 📼 And also record videos about code at [https://youtube.com/codingmilitia](https://youtube.com/codingmilitia)
 - 💬 Feel free to reach out about the things I blog/record, or just coding stuff in general, happy to help if I can
-- 📫 Happy to connect on [Mastodon](https://mastodon.social/@joaofbantunes), [Twitter](https://twitter.com/joaofbantunes) and/or [LinkedIn](https://www.linkedin.com/in/joaofbantunes/)
+- 📫 Happy to connect on [Mastodon](https://mastodon.social/@joaofbantunes) and/or [LinkedIn](https://www.linkedin.com/in/joaofbantunes/)
 - 😄 Pronouns: he/him/his
 - 📱 A bit of a gadget addict
 - 🤘 headbanger (maybe you noted something familiar in the blog title 🙂)
