@@ -1,24 +1,21 @@
 ### Hey folks! 👋
 
-My name is João Antunes and I'm a tech professional who's always trying to push things forward. Interested in everything related to the software development process, including the development itself, solutions architecture, as well as other activities, like promoting technical discussions, knowledge sharing and helping colleagues level up.
+My name is João Antunes and I am a seasoned technology professional focused on moving both systems and teams forward.
 
-I've worked across different projects and industries, developing (micro)services, web applications, IPTV applications and a bunch of other stuff. When developing, I've mainly focused on backend systems but always trying to keep an eye on what's going on in the frontend.
+My experience covers the entire software development lifecycle, from initial problem discovery and system architecture, to infrastructure and organizational processes.
 
-In terms of tech stack, my main focus has been .NET and C#, but I've worked with other technologies and enjoy trying and learning new things as much as possible. Awarded as Microsoft MVP, in the developer technologies category.
+Over the years, I've worked across different projects and industries, building distributed applications based on (micro)services, web applications and even IPTV applications.
 
-I spend a good amount of time trying to keep up and learn new things, not only to improve on subjects relevant to my day-to-day job, but also exploring subjects that aren’t (at least yet) part of it, so I improve my knowledge breadth, and have a bigger picture view when it’s relevant.
+If you feel like reading something, I have a blog (you can find the link somewhere) where I talk about all things software development. I also do occasional presentations at meetups, conferences and related events.
 
-I have a blog and a YouTube channel where I talk about all the subjects around software development (you can find links below). I also do some presentations on meetups, conferences and related events.
-
-Big remote work supporter, as I believe the tech industry is in a privileged position to provide the best work-life balance, skipping unneeded commutes and relocations, while also being an example to the other industries.
+As a long-time advocate for remote work, I believe that high-trust cultures, with a mix of asynchronous and synchronous interactions, are the most effective way to build software, by focusing on results rather than presence.
 
 Some extra tidbits:
 
 - ✍ I blog about code at [https://blog.codingmilitia.com](https://blog.codingmilitia.com)
-- 📼 And also record videos about code at [https://youtube.com/codingmilitia](https://youtube.com/codingmilitia)
 - 💬 Feel free to reach out about the things I blog/record, or just coding stuff in general, happy to help if I can
-- 📫 Happy to connect on [Mastodon](https://mastodon.social/@joaofbantunes) and/or [LinkedIn](https://www.linkedin.com/in/joaofbantunes/)
+- 📫 Happy to connect on [Mastodon](https://mastodon.social/@joaofbantunes), [Bluesky](https://bsky.app/profile/joao.antunes.dev) or [LinkedIn](https://www.linkedin.com/in/joaofbantunes/)
 - 😄 Pronouns: he/him/his
 - 📱 A bit of a gadget addict
 - 🤘 headbanger (maybe you noted something familiar in the blog title 🙂)
-- ⚡ I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003375) in the developer technologies category
+- ⚡ I'm a [Microsoft MVP](https://mvp.microsoft.com/en-US/MVP/profile/d97fdd62-a039-e911-a97b-000d3a137a43) in the developer technologies category
